@@ -14,3 +14,6 @@
 
 ## 🖥 **Máquina virtual (ag-VM01) implementada e iniciada**
 ![image](https://github.com/user-attachments/assets/9de3cd84-c3eb-477b-8e62-83978b521ea3)
+
+### 📢 Alertas de monitoração na máquina virtual (ag-VM01)**
+![image](https://github.com/user-attachments/assets/ca90f654-ae12-4769-83f4-e2ed56b115f7)
