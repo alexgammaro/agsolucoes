@@ -20,3 +20,6 @@
 
 ## 🌍 **Web App (agsolucoes)**
 ![image](https://github.com/user-attachments/assets/b8bf3adf-9349-46fa-83f8-d5afc4f99055)
+
+## 🌐 **Application Gateway configurado para meu Web App**
+![image](https://github.com/user-attachments/assets/254c7181-a90f-44a2-905d-a0e29033da37)
