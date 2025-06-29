@@ -17,3 +17,6 @@
 
 ### 📢 **Alertas de monitoração na máquina virtual (ag-VM01)**
 ![image](https://github.com/user-attachments/assets/ca90f654-ae12-4769-83f4-e2ed56b115f7)
+
+## 🌍 **Web App (agsolucoes)**
+![image](https://github.com/user-attachments/assets/b8bf3adf-9349-46fa-83f8-d5afc4f99055)
